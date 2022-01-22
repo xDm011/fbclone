@@ -10,30 +10,30 @@ This tool is only for educational purpose. The developer is not responsible for 
 
 👇👇👇👇👇
 
-# apt update
+* apt update
  
-# apt upgrade -y
+* apt upgrade -y
 
-# apt install git -y
+* apt install git -y
 
 * pkg install python
 
-# pkg install python2 -y
+* pkg install python2 -y
 
-# pip2 install requests
+* pip2 install requests
 
-# pip2 install mechanize
+* pip2 install mechanize
 
-# apt install ruby -y && gem install lolcat
+* apt install ruby -y && gem install lolcat
 
-# git clone 
+* git clone 
 https://github.com/xDm011/xDmclone011
 
-$ cd xDmclone011
+* cd xDmclone011
 
-# python2 xdmclone.py
+* python2 xdmclone.py
 
 
-👉# Username: xDm mAsTeR
+👉* Username: xDm mAsTeR
 
-🔐# Password: MORSALIN
+🔐* Password: MORSALIN
