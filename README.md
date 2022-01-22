@@ -16,7 +16,7 @@ This tool is only for educational purpose. The developer is not responsible for 
 
 # apt install git -y
 
-# pkg install python
+* pkg install python
 
 # pkg install python2 -y
 
